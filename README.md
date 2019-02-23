@@ -1,0 +1,1 @@
+This is a 8 Ball Pool game made in OpenGL. The complete framework is on https://drive.google.com/drive/folders/1PV0lgoeIdVP861wxqGN1-zNtP-vq34p_?usp=sharing and there are detailed comments in the source code.
